@@ -29,8 +29,8 @@ void naive(char*txt,char*pat)
 
 void main()
 {
-	char txt[]="leavemealoneme";
-	char pat[]="me";
+	char txt[]="hashhaseeclash";
+	char pat[]="sh";
 	naive(txt,pat);
 	return 0;
 }
