@@ -29,7 +29,7 @@ void naive(char*txt,char*pat)
 
 void main()
 {
-	char txt[]="leavemealoneem";
+	char txt[]="employeeemid";
 	char pat[]="em";
 	naive(txt,pat);
 	return 0;
